@@ -1,0 +1,55 @@
+id: I49446056
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:09:25.401994'
+last_modified: '2022-06-17T11:09:25.402005'
+parser: null
+source_metadata:
+  title: Benedictory Verses
+  language: en
+  description: 'A series of benedictory verses for colophons (par/spar byang smon
+    tshig):'
+  volume:
+    f8979:
+      title: 'Benedictory Verses for The Clarifying Light: A Prophecy of the Future'
+      base_file: f8979.txt
+      order: 1
+      parent: Clarifying Light Prophecy
+    f1A6B:
+      title: Benedictory Verses
+      base_file: f1A6B.txt
+      order: 2
+      parent: Jonang
+    fABB6:
+      title: Benedictory Verses for the Summary of the Perfection of Wisdom
+      base_file: fABB6.txt
+      order: 3
+      parent: Prajñāpāramitā
+    f8544:
+      title: Benedictory Verses for A Brilliant Elucidation of Logical Reasoning
+      base_file: f8544.txt
+      order: 4
+      parent: Pramāṇa
+    fDD5E:
+      title: Benedictory Verses for Pramāṇavārttika
+      base_file: fDD5E.txt
+      order: 5
+      parent: Pramāṇa
+    f740A:
+      title: Benedictory Verses for Shower of Blessings Guru Yoga
+      base_file: f740A.txt
+      order: 6
+      parent: Shower of Blessings
+    fDEB5:
+      title: Benedictory Verses for White Lotus
+      base_file: fDEB5.txt
+      order: 7
+      parent: White Lotus
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
